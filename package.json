@@ -2,7 +2,7 @@
   "author": "will ayers",
   "name": "cobalt-app",
   "description": "Node coomandline application to run cobalt related functions including setting up new projects",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "url": "git@github.com:motive-media/cobalt-node.git"
   },
