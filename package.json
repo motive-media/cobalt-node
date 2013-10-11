@@ -4,7 +4,7 @@
   "description": "Node coomandline application to run cobalt related functions including setting up new projects",
   "version": "0.0.1",
   "repository": {
-    "url": ""
+    "url": "git@github.com:motive-media/cobalt-node.git"
   },
   "main": "./lib/main",
   "bin": {
