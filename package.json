@@ -1,6 +1,6 @@
 {
   "author": "will ayers",
-  "name": "cobalt",
+  "name": "cobalt-app",
   "description": "Node coomandline application to run cobalt related functions including setting up new projects",
   "version": "0.0.2",
   "repository": {
