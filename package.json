@@ -1,0 +1,26 @@
+{
+  "author": "will ayers",
+  "name": "cobalt",
+  "description": "Node coomandline application to run cobalt related functions including setting up new projects",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/main",
+  "bin": {
+    "cobalt": "./bin/cobalt"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "keywords": [
+    "cobalt"
+  ],
+  "license": "(BSD) MIT"
+}
