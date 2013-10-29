@@ -1,7 +1,7 @@
 {
   "name": "cobalt-app",
   "description": "Cobalt App builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/motive-media/cobalt-node",
   "author": {
     "name": "Will Ayers",
@@ -22,7 +22,7 @@
   ],
   "main": "lib/cobalt-app",
   "bin": {
-    "cobalt-app": "./bin/cobalt-app"
+    "cobalt-app": "./bin/cobalt-app.js"
   },
   "engines": {
     "node": ">= 0.8.0"
