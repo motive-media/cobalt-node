@@ -1,25 +1,27 @@
-# Install
+# cobalt-app
 
-```bash
-$ npm install -g cobalt-app
+Cobalt App builder
+
+## Getting Started
+Install the module with: `npm install cobalt-app`
+
+```javascript
+var cobalt_app = require('cobalt-app');
+cobalt_app.awesome(); // "awesome"
 ```
 
-# Run
+## Documentation
+_(Coming soon)_
 
-```bash
-$ cobalt-app
-```
+## Examples
+_(Coming soon)_
 
-# Options
+## Contributing
+In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
-```bash
-$ cobalt-app --dir /dir/to/install
-```
+## Release History
+_(Nothing yet)_
 
-```bash
-$ cobalt-app --repo http://git@github.com/url
-```
-
-# Shortcode Options
-
--d alias as --dir
+## License
+Copyright (c) 2013 Will Ayers  
+Licensed under the MIT license.
