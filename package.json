@@ -22,7 +22,7 @@
   ],
   "main": "lib/cobalt-app",
   "bin": {
-    "cobalt-app": "./bin/cobalt-app.js"
+    "cobalt-app": "./bin/cobalt-app"
   },
   "engines": {
     "node": ">= 0.8.0"
